@@ -1,5 +1,5 @@
 // CSCI 311 - Spring 2023
-// AVLTree cpp
+// AVL Tree implementation
 // Author: Lucas Butler
 
 #include <iostream>
